@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shield
+* source:	https://sketchfab.com/3d-models/shield-1afa71987fbd4632af1f13099c9f94f2
+* author:	apirozkov1988 (https://sketchfab.com/apirozkov1988)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shield" (https://sketchfab.com/3d-models/shield-1afa71987fbd4632af1f13099c9f94f2) by apirozkov1988 (https://sketchfab.com/apirozkov1988) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
